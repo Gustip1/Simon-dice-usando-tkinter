@@ -1,0 +1,275 @@
+[
+    {
+        "nombre": "juan",
+        "fecha": "",
+        "hora": "",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "gustavi",
+        "fecha": "2024-06-03",
+        "hora": "20:14:33",
+        "puntaje": 0,
+        "nivel": ""
+    },
+    {
+        "nombre": "lotzo",
+        "fecha": "2024-06-03",
+        "hora": "20:15:43",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "Gusti",
+        "fecha": "2024-06-04",
+        "hora": "11:25:49",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "Gust",
+        "fecha": "2024-06-04",
+        "hora": "11:52:37",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "ss",
+        "fecha": "2024-06-04",
+        "hora": "11:58:00",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "s",
+        "fecha": "2024-06-04",
+        "hora": "12:09:31",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "juan",
+        "fecha": "2024-06-04",
+        "hora": "19:37:56",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "Gustavo",
+        "fecha": "2024-06-04",
+        "hora": "19:41:32",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "s",
+        "fecha": "2024-06-04",
+        "hora": "19:42:09",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "juanpi",
+        "fecha": "2024-06-04",
+        "hora": "19:45:46",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "tomas",
+        "fecha": "2024-06-04",
+        "hora": "19:47:34",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "on",
+        "fecha": "2024-06-04",
+        "hora": "19:47:48",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "pedro",
+        "fecha": "2024-06-04",
+        "hora": "19:49:33",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "pepe",
+        "fecha": "2024-06-04",
+        "hora": "20:02:45",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "simon",
+        "fecha": "2024-06-04",
+        "hora": "20:04:48",
+        "puntaje": 1,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "sss",
+        "fecha": "2024-06-04",
+        "hora": "20:07:56",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "aaaa",
+        "fecha": "2024-06-04",
+        "hora": "20:08:19",
+        "puntaje": 0,
+        "nivel": "Experto"
+    },
+    {
+        "nombre": "pepe",
+        "fecha": "2024-06-04",
+        "hora": "20:10:36",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "andres",
+        "fecha": "2024-06-04",
+        "hora": "20:11:33",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "as",
+        "fecha": "2024-06-04",
+        "hora": "20:11:49",
+        "puntaje": 1,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "pepe",
+        "fecha": "2024-06-04",
+        "hora": "20:15:09",
+        "puntaje": 0,
+        "nivel": "dificil"
+    },
+    {
+        "nombre": "Tomas",
+        "fecha": "2024-06-04",
+        "hora": "20:16:39",
+        "puntaje": 0,
+        "nivel": "Medio"
+    },
+    {
+        "nombre": "pepe",
+        "fecha": "2024-06-04",
+        "hora": "20:18:06",
+        "puntaje": 0,
+        "nivel": "Medio"
+    },
+    {
+        "nombre": "tt",
+        "fecha": "2024-06-04",
+        "hora": "20:18:29",
+        "puntaje": 0,
+        "nivel": "Medio"
+    },
+    {
+        "nombre": "Tomi",
+        "fecha": "2024-06-04",
+        "hora": "20:18:50",
+        "puntaje": 0,
+        "nivel": "Dificil"
+    },
+    {
+        "nombre": "tt",
+        "fecha": "2024-06-04",
+        "hora": "20:19:10",
+        "puntaje": 0,
+        "nivel": "Dificil"
+    },
+    {
+        "nombre": "sss",
+        "fecha": "2024-06-04",
+        "hora": "20:20:07",
+        "puntaje": 0,
+        "nivel": "Medio"
+    },
+    {
+        "nombre": "tomi",
+        "fecha": "2024-06-04",
+        "hora": "20:25:20",
+        "puntaje": 0,
+        "nivel": "Dificil"
+    },
+    {
+        "nombre": "asadsadasdas",
+        "fecha": "2024-06-04",
+        "hora": "20:27:24",
+        "puntaje": 0,
+        "nivel": "Medio"
+    },
+    {
+        "nombre": "doni",
+        "fecha": "2024-06-04",
+        "hora": "20:30:00",
+        "puntaje": 0,
+        "nivel": "medio"
+    },
+    {
+        "nombre": "tomas",
+        "fecha": "2024-06-04",
+        "hora": "20:31:06",
+        "puntaje": 0,
+        "nivel": "medio"
+    },
+    {
+        "nombre": "manuel",
+        "fecha": "2024-06-04",
+        "hora": "20:32:18",
+        "puntaje": 0,
+        "nivel": "medio"
+    },
+    {
+        "nombre": "ema",
+        "fecha": "2024-06-04",
+        "hora": "20:33:42",
+        "puntaje": 0,
+        "nivel": "medio"
+    },
+    {
+        "nombre": "pepepepepepe",
+        "fecha": "2024-06-04",
+        "hora": "20:34:34",
+        "puntaje": 0,
+        "nivel": "medio"
+    },
+    {
+        "nombre": "dadasd",
+        "fecha": "2024-06-04",
+        "hora": "20:35:25",
+        "puntaje": 0,
+        "nivel": "medio"
+    },
+    {
+        "nombre": "as",
+        "fecha": "2024-06-04",
+        "hora": "20:39:27",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "pepe",
+        "fecha": "2024-06-05",
+        "hora": "17:18:20",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    },
+    {
+        "nombre": "as",
+        "fecha": "2024-06-05",
+        "hora": "17:19:57",
+        "puntaje": 0,
+        "nivel": "Principiante"
+    }
+]
